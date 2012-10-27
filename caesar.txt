@@ -1,7 +1,7 @@
-THIS IS A TEST
-this is a uncaptilazed text with a typo
-more stuff
+01 THIS IS A TEST
+02 this is a uncapitalized text
+03 more stuff
 adding another line to the pile
 and another test, this time before branch
 more
-
+this is a line for hte branch
