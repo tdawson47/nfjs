@@ -2,3 +2,6 @@ THIS IS A TEST
 this is a uncaptilazed text with a typo
 more stuff
 adding another line to the pile
+and another test, this time before branch
+more
+
