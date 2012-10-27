@@ -4,4 +4,4 @@
 adding another line to the pile
 and another test, this time before branch
 more
-this is a line for hte branch
+this is a line for the branch
